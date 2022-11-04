@@ -1,7 +1,6 @@
 import React, { Component } from "react";
 import "./NavBar.css";
 import { Navbar, Nav } from "react-bootstrap";
-import Logo from "../img/logo.png";
 import Switch from "react-switch";
 
 class NavBar extends Component {
